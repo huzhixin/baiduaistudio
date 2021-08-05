@@ -11,6 +11,8 @@
 
 ### [点击跳转至赛题页面](https://aistudio.baidu.com/aistudio/competition/detail/87)
 
+### [AIStusio项目代码](https://aistudio.baidu.com/aistudio/projectdetail/2250547)
+
 ### [赛题数据集](https://aistudio.baidu.com/aistudio/datasetdetail/101358)
 
 ### [PaddleSeg包](https://aistudio.baidu.com/aistudio/datasetdetail/102868)
